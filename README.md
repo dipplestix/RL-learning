@@ -16,4 +16,5 @@ http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 https://github.com/dennybritz/reinforcement-learning (organized course combining Sutton book with Silver course)
 https://github.com/ShangtongZhang/reinforcement-learning-an-introduction (partial answers to exercises from Sutton)
 https://www.reddit.com/r/RLGroup/
+https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/
 
